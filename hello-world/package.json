@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "simple file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Metalman10/wd201.git#main"
+  },
+  "author": "me",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Metalman10/wd201/issues"
+  },
+  "homepage": "https://github.com/Metalman10/wd201/tree/main#readme",
+  "keywords": [
+    "package"
+  ]
+}
